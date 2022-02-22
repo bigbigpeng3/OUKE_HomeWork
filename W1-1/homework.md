@@ -16,7 +16,7 @@
 ###交易截图
 
 
-![](https://github.com/bigbigpeng3/OUKE_HomeWork/W1-1/20220222_tx.png?raw=true)
+![](https://raw.githubusercontent.com/bigbigpeng3/OUKE_HomeWork/main/W1-1/20220222_tx.png)
 
 
 
