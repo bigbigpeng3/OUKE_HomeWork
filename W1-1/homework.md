@@ -2,7 +2,7 @@
 ## MetaMask插件截图
 
 
-![](https://github.com/bigbigpeng3/OUKE_HomeWork/W1-1/20220222metamask.png)
+![](https://github.com/bigbigpeng3/OUKE_HomeWork/blob/main/W1-1/20220222metamask.png?raw=true)
 
 
 
@@ -16,7 +16,7 @@
 ###交易截图
 
 
-![](https://github.com/bigbigpeng3/OUKE_HomeWork/W1-1/20220222_tx.png)
+![](https://github.com/bigbigpeng3/OUKE_HomeWork/W1-1/20220222_tx.png?raw=true)
 
 
 
@@ -27,10 +27,10 @@
 
 ### 合约截图
 
-![](https://github.com/bigbigpeng3/OUKE_HomeWork/W1-1/20220222_contract.png)
+![](https://github.com/bigbigpeng3/OUKE_HomeWork/blob/main/W1-1/20220222_contract.png?raw=true)
 
 
 ## VSCode插件
 
-![](https://github.com/bigbigpeng3/OUKE_HomeWork/W1-1/20220222_vscode.png)
+![](https://github.com/bigbigpeng3/OUKE_HomeWork/blob/main/W1-1/20220222_vscode.png?raw=true)
 
