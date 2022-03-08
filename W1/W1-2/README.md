@@ -1,15 +1,24 @@
-# Basic Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Hardhat部署合约到以太坊Ropsten网络
 
-Try running some of the following tasks:
+![](https://github.com/bigbigpeng3/OUKE_HomeWork/blob/main/W1/W1-2/images/W1-2_deploy_Counter.png?raw=true)
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
+#### 合约部署TX
+
+<https://ropsten.etherscan.io/tx/0xd8eb1fe43f24c50365237a6d64d085a02c3da8ac08921d8bdf1100c3354dd7f8>
+
+
+## HardHat测试Couter
+
+
+![](https://github.com/bigbigpeng3/OUKE_HomeWork/blob/main/W1/W1-2/images/W1-2_contract_test.png?raw=true)
+
+
+
+##脚本调用Counter
+
+![](https://github.com/bigbigpeng3/OUKE_HomeWork/blob/main/W1/W1-2/images/W1-2_call_remote_contract.png?raw=true)
+
+
+PS：源代码在本目录内

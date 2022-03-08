@@ -1,15 +1,28 @@
-# Basic Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## 部署测试链上合约
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+地址
+
+<https://rinkeby.etherscan.io/address/0x12a3a05a315121a9b1f55077a062186d5b12fcd4>
+
+
+## 向合约发送ETH
+
+
+交易地址
+
+<https://rinkeby.etherscan.io/tx/0x6af823bdbe491b9bc4a595a47ce8b8106a58a25af2267efc3813bb9649497756>
+
+
+## 获取地址发送过的ETH
+
+![](https://github.com/bigbigpeng3/OUKE_HomeWork/blob/main/W2/W2-1/bank/images/W2_1_get_balances.png?raw=true)
+
+
+## withdraw所有的ETH
+
+
+调用成功后的交易地址。
+
+<https://rinkeby.etherscan.io/tx/0xa6f08b64921192e2254bc5007ee5adf41d0302419b36c7b5851b98d6a538d8a9>
