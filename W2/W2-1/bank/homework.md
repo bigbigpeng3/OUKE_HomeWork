@@ -17,7 +17,7 @@
 
 ## 获取地址发送过的ETH
 
-![](https://raw.githubusercontent.com/bigbigpeng3/OUKE_HomeWork/main//W1/W1-1/20220222_tx.png)
+![](https://github.com/bigbigpeng3/OUKE_HomeWork/blob/main/W2/W2-1/bank/images/W2_1_get_balances.png?raw=true)
 
 
 ## withdraw所有的ETH
