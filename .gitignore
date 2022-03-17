@@ -15,6 +15,7 @@ coverage
 *.local
 
 /test
+*/node_modules
 
 /cypress/videos/
 /cypress/screenshots/
