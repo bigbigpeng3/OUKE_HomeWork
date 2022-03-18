@@ -26,9 +26,9 @@ module.exports = {
       // accounts: [process.env.PRIVATE_KEY]
     },
     ropsten: {
-      url: "https://ropsten.infura.io/v3/" + process.env.INFURA_KEY,
+      url: "https://ropsten.infura.io/v3/a4076b0e2f4f43dcbb12c4dda2372c70",
       accounts: [process.env.PRIVATE_KEY]
-    }
+    },
 
     // rinkeby: {
     //   url: process.env.INFURA_URL,
